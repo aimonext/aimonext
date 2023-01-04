@@ -8,16 +8,23 @@
 - 📫 How to reach me **coderaimon0@gmail.com**
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coderaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/coderaimon0/coderaimon0/main/img/twitter.svg" alt="coderaimon" height="30" width="40" /></a>
-<a href="https://facebook.com/coderaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/coderaimon0/coderaimon0/main/img/facebook.svg" alt="coderaimon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/coderaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/coderaimon0/coderaimon0/main/img/linked-in-alt.svg" alt="coderaimon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/coderaimon0/coderaimon0/main/img/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/coderaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/coderaimon0/coderaimon0/main/img/instagram.svg" alt="coderaimon" height="30" width="40" /></a>
+<div id="header" align="center">
+    <div id="badges">
+        <a href="https://github.com/coderaimon0">
+            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        </a>
+        <a href="mailto:coderaimon0@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        </a>
+        <a href="https://www.linkedin.com/in/coderaimon/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+    </div>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoderaimon0&count_bg=%23667395&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" alt="hits" />
+</div>
 
-### Badges
+---
 
-<a href="http://www.github.com/coderaimon0"><img src="https://github-readme-stats.vercel.app/api?username=coderaimon0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&PATH_1" alt="coderaimon0's GitHub stats" /></a>
-
-<a href="http://www.github.com/coderaimon0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaimon0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div id="stats" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=coderaimon0&theme=tokyonight&count_private=true&show_icons=true" alt="GitHub Stats">
+</div>
