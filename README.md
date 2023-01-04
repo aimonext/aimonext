@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in **Tech Startup**
 - 🌱 I’m currently learning **PMP & Neural Networking**
-- 💞️ I’m looking to collaborate on Open Source Software (OSS)
+- 💞️ I’m looking to collaborate on **Open Source Software (OSS)**
 - 📫 How to reach me **coderaimon0@gmail.com**
 
 <br>
