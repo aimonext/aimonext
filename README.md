@@ -10,7 +10,7 @@
 <br>
 <div id="header" align="center">
     <div id="badges">
-        <a href="https://github.com/coderaimon0">
+        <a href="https://github.com/coderaimon">
             <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         </a>
         <a href="mailto:coderaimon0@gmail.com">
@@ -25,5 +25,5 @@
 ---
 
 <div id="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderaimon0&theme=tokyonight&count_private=true&show_icons=true&locale=en&hide=issues" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=coderaimon&theme=tokyonight&count_private=true&show_icons=true&locale=en&hide=issues" alt="GitHub Stats">
 </div>
