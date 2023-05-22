@@ -9,7 +9,7 @@
 <br>
 <div id="header" align="center">
     <div id="badges">
-        <a href="https://github.com/coderaimon">
+        <a href="https://github.com/aimonext">
             <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         </a>
         <a href="mailto:coderaimon0@gmail.com">
