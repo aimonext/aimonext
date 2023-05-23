@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimon Islam</h1>
-<h3 align="center">Pationate in 🌟Data Science, 🌟Artificial Intelligence, 🌱Software Development, and 👀Automation.</h3>
+<h3 align="center">Pationate in 🌟Innovation, 🌟Artificial Intelligence, 🌱Software Development, and 👀Automation.</h3>
 
 - 👀 I’m interested in **Tech Startup**
 - 🌱 I’m currently researching about **AI & Automation**
