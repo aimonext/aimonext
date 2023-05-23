@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aimon Islam</h1>
-<h3 align="center">Pationate in 🌟Data Science, 🌟Machine Learning & AI, 🌱Software Development, and 👀Automation.</h3>
+<h3 align="center">Pationate in 🌟Data Science, 🌟Artificial Intelligence, 🌱Software Development, and 👀Automation.</h3>
 
 - 👀 I’m interested in **Tech Startup**
-- 🌱 I’m currently learning **PMP & Neural Networking**
+- 🌱 I’m currently researching about **AI & Automation**
 - 💞️ I’m looking to collaborate on **Open Source Software (OSS)**
 - 📫 You can reach me at **aimonext@outlook.com**
 
