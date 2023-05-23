@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Tech Startup**
 - 🌱 I’m currently learning **PMP & Neural Networking**
 - 💞️ I’m looking to collaborate on **Open Source Software (OSS)**
-- 📫 You can reach me at **coderaimon0@gmail.com**
+- 📫 You can reach me at **aimonext@outlook.com**
 
 <br>
 <div id="header" align="center">
@@ -12,7 +12,7 @@
         <a href="https://github.com/aimonext">
             <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         </a>
-        <a href="mailto:coderaimon0@gmail.com">
+        <a href="mailto:aimonext@outlook.com">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
         <a href="https://www.linkedin.com/in/aimon-islam/">
