@@ -24,5 +24,5 @@
 ---
 
 <div id="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimonext&theme=tokyonight&count_private=true&show_icons=true&locale=en&hide=issues" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aimonext&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="GitHub Stats">
 </div>
