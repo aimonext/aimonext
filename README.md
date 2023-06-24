@@ -24,5 +24,12 @@
 ---
 
 <div id="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimonext&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aimonext&theme=github_dark&count_private=true&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats">
 </div>
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aimonext&theme=tokyonight_duo&hide_border=true" alt="aimonext" />
+	<br/>
+    <p align="center"> The Master of Back-end🔥 </p>
+</p>
+
