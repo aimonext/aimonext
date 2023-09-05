@@ -9,8 +9,8 @@
 <br>
 <div id="header" align="center">
     <div id="badges">
-        <a href="https://github.com/aimonext">
-            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        <a href="https://x.com/aimonext">
+            <img src="https://img.shields.io/badge/xcorp-black?style=for-the-badge&logo=x&logoColor=white" alt="GitHub Badge"/>
         </a>
         <a href="mailto:aimonext@outlook.com">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
